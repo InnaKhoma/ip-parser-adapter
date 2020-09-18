@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Hw\Adapters\Ip;
+namespace Hw\Adapters;
 
 use Illuminate\Support\Facades\Http;
 

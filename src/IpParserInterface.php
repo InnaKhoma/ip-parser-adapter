@@ -1,6 +1,6 @@
 <?php
 
-namespace Hw\Adapters\Ip;
+namespace Hw\Adapters;
 
 interface IpParserInterface
 {

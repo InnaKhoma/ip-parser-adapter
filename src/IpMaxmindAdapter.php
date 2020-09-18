@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Hw\Adapters\Ip;
+namespace Hw\Adapters;
 
 use GeoIp2\Database\Reader;
 use GeoIp2\Exception\AddressNotFoundException;

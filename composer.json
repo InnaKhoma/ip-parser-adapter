@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hw\\Adapters\\IP\\": "src/"
+            "Hw\\Adapters\\": "src/"
         }
     },
     "license": "MIT"
